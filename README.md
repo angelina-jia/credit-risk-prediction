@@ -1,4 +1,3 @@
-```markdown
 # Credit Risk Prediction: "Give Me Some Credit"
 
 A machine learning project predicting the probability of borrowers experiencing financial distress within the next two years using the Kaggle "Give Me Some Credit" competition dataset.
@@ -42,20 +41,20 @@ Tested 9 algorithms using 5-fold cross-validation with AUC-ROC:
 
 ## Repository Structure
 
-```
+
 ├── gimme_some_credit.ipynb    # Main Jupyter notebook with full analysis
 ├── submissions/
 │   └── give_me_some_credit_submission.csv     # Kaggle submission file
 ├── README.md                    # Project documentation
 └── requirements.txt             # Python dependencies
-```
+
 
 ## Getting Started
 
 ### Prerequisites
 ```bash
 pip install -r requirements.txt
-```
+
 
 ### Running the Analysis
 1. Clone the repository
@@ -75,4 +74,4 @@ pip install -r requirements.txt
 **Final Ranking:** Top tier performance with 0.857 private score demonstrating effective credit risk modeling suitable for real-world financial applications.
 
 **Tags:** `machine-learning` `credit-risk` `kaggle` `binary-classification` `imbalanced-data` `adaboost` `python`
-```
+
