@@ -52,7 +52,6 @@ Tested 9 algorithms using 5-fold cross-validation with AUC-ROC:
 ## Getting Started
 
 ### Prerequisites
-```bash
 pip install -r requirements.txt
 
 
